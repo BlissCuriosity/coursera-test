@@ -1,0 +1,80 @@
+#page-heading {
+    font-size: 25px;
+    margin-top: 15px
+}
+
+.nav-item {
+    background-color: aqua;
+}
+
+.nav-item:hover {
+    background-color: blanchedalmond;
+}
+
+.navbar-custom {
+    background-color: aquamarine;
+   
+}
+
+#menubar {
+    padding-top: 10px;
+    width: 100%;
+}
+
+.h1 {
+    font-size: x-large;
+}
+
+h3 {
+    font-size: 20px;
+}
+
+#parag {
+    background-color: aquamarine;
+}
+
+#navbtn:hover {
+    background: white !important;
+}
+
+.navbar-brand {
+    margin-left: 15px;
+    font-size: 35px;
+}
+
+#navbarNav {
+    margin-left: -20px;
+    margin-right: -20px;
+    margin-bottom: -8px;
+}
+
+#nav-chicken {
+    border-top: 1px;
+    border-bottom: 1px;
+    border-style: solid;
+    border-color: black;
+}
+
+#nav-beef {
+    border-top: 0px;
+    border-bottom: 1px;
+    border-style: solid;
+    border-color: black;
+}
+
+#nav-sushi {
+    border-top: 0px;
+    border-bottom: 1px;
+    border-style: solid;
+    border-color: black;
+}
+
+ #navbtn {
+  border: 2px solid salmon ;
+  border-radius: .2em;
+  background: aquamarine;
+}
+
+#main-content{
+    max-width: 90vw;;
+}
